@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://partswiper.com/sitemap.xml
